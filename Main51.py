@@ -1,4 +1,4 @@
-# Short Hand if else Statements.
+# E8.Short Hand if else Statements.
 a = 330000
 b = 3303
 print("A") if a > b else print("=") if a == b else print("B")
